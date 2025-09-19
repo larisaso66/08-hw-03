@@ -36,6 +36,7 @@
 
 <img width="1623" height="568" alt="Задание 2" src="https://github.com/user-attachments/assets/15ea4382-0c59-4ae8-a98a-895d5e9fe1ed" />
 
+
 `Проверка поступления данных в разделе Latest Data`
 
 <img width="1407" height="907" alt="Данные агентов" src="https://github.com/user-attachments/assets/ff18518c-414d-44a9-ba71-9ac9c7e2336d" />
