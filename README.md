@@ -34,7 +34,8 @@
 
 `Cкриншот страницы хостов c привязкой шаблонов `
 
-<img width="1562" height="541" alt="Задание 2-3_1" src="https://github.com/user-attachments/assets/64cb5c55-4103-497f-a41f-3635a16b50a5" />a 
+<img width="1591" height="576" alt="Задание 2-3_2" src="https://github.com/user-attachments/assets/4cae02cc-445c-454e-8355-ba8dc113ba0f" />
+
 
 `Проверка поступления данных в разделе Latest Data`
 
