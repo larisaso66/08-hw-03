@@ -26,7 +26,7 @@
 
 `Скриншот страницы созданного шаблона`
 
-<img width="1623" height="638" alt="Задание 1" src="https://github.com/user-attachments/assets/e4091d3b-2c45-4e01-b01a-d8db952f8d97" />
+<img width="1571" height="579" alt="Задание 1" src="https://github.com/user-attachments/assets/7505c2d9-c3f3-4632-9d43-1f27fa6a1549" />
 
 ---
 
@@ -34,20 +34,21 @@
 
 `Cкриншот страницы хостов c привязкой шаблонов `
 
-<img width="1623" height="568" alt="Задание 2" src="https://github.com/user-attachments/assets/15ea4382-0c59-4ae8-a98a-895d5e9fe1ed" />
-
+<img width="1562" height="541" alt="Задание 2-3_1" src="https://github.com/user-attachments/assets/64cb5c55-4103-497f-a41f-3635a16b50a5" />a 
 
 `Проверка поступления данных в разделе Latest Data`
 
-<img width="1407" height="907" alt="Данные агентов" src="https://github.com/user-attachments/assets/ff18518c-414d-44a9-ba71-9ac9c7e2336d" />
+<img width="1478" height="612" alt="Memory Usage" src="https://github.com/user-attachments/assets/07d39ace-60d1-4779-abf4-74f31d30f595" />
+
+<img width="1625" height="634" alt="СPU Usage" src="https://github.com/user-attachments/assets/287e011f-826a-4524-9709-ed1b5cbf9246" />
 
 ---
 
 ### Задание 4
 
-`Cкриншоты созданного дашборда `
+`Cкриншот созданного дашборда `
 
-<img width="1408" height="907" alt="Задание 4-1" src="https://github.com/user-attachments/assets/aecc7646-4984-4224-b78e-6c58a2533996" />
+<img width="1605" height="698" alt="Задание 4" src="https://github.com/user-attachments/assets/9998f303-c97c-4fff-a888-2daaaee48b23" />
 
 ---
 
